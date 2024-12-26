@@ -1,5 +1,6 @@
-venv/
-API-Docs/
+API-Docs/*
+
+
 
 # Helpful notes
 # Only matches API-Docs in root
